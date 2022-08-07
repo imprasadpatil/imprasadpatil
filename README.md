@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-imprasadpatil-red)](https://www.youtube.com/imprasadpatil)
 [![Linkedin Badge](https://img.shields.io/badge/-imprasadpatil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imprasadpatil/)](https://www.linkedin.com/in/imprasadpatil/))
-[![Website Badge](https://img.shields.io/badge/WebSite-imprasadpatil-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Prasad_Patil-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-imprasadpatil-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
