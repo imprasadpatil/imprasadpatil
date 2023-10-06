@@ -5,9 +5,12 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Prasad_Patil-green)](https://imprasadpatil.github.io/myportfolio/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-imprasadpatil-yellow)](https://stackoverflow.com/)
 
-I'm
+I am Prasad Patil👨, working as a 💻Software Trainer & Educator🎓📚
+
+I have around 3 years of experience with different Frontend and Backend Technologies. Also working as a Freelance Corporate and Online Trainer and Mentoring for Multiple Technology and IT Career
+
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high-profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure), database(MongoDB, Cassandra, Mysql), CI/CD(Docker, Kubernetes)
 
 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/imprasadpatil/count.svg)
@@ -151,6 +154,12 @@ Visitor Count
 </details>
 <br/>
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Python, React, JavaScript, Node, and MERN Stack.
+- 💬 Ask me about Frontend and Backend Training
+- 📫 How to reach me: patilprasad737@gmail.com / +91 9921110208
+
 ![](https://activity-graph.herokuapp.com/graph?username=imprasadpatil&theme=react-dark&area=true)
 <!--
 **imprasadpatil/imprasadpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -162,7 +171,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ....
+- 📫 How to reach me:...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
 
