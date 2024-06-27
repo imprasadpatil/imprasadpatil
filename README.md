@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Prasad_Patil-green)](https://imprasadpatil.github.io/myportfolio/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-imprasadpatil-yellow)](https://stackoverflow.com/)
 
-I am Prasad Patil👨, working as a 💻Software Trainer & Educator🎓📚
+I am Prasad Patil👨, working as a 💻Software Developer🎓📚
 
 Full Stack Solution Architect
 The crossover between design and programming has always interested me, I've been lucky enough to work alongside talented teams on several high-profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive), Server Administrator(AWS, GCP, Azure), database(MongoDB), CI/CD(Docker, Kubernetes)
