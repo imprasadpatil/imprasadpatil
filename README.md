@@ -7,10 +7,8 @@
 
 I am Prasad Patil👨, working as a 💻Software Trainer & Educator🎓📚
 
-I have around 3 years of experience with different Frontend and Backend Technologies. Also working as a Freelance Corporate and Online Trainer and Mentoring for Multiple Technology and IT Career
-
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high-profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure), database(MongoDB, Cassandra, Mysql), CI/CD(Docker, Kubernetes)
+The crossover between design and programming has always interested me, I've been lucky enough to work alongside talented teams on several high-profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive), Server Administrator(AWS, GCP, Azure), database(MongoDB), CI/CD(Docker, Kubernetes)
 
 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/imprasadpatil/count.svg)
